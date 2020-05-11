@@ -10,7 +10,11 @@ I will learn these concepts in that order, and I will documents the ressources I
 
 ### How did I categorized the information ?
 
-The information is presented in the same way I learn a new concept. First, I usually try to research a topic first to have a good overview on how things fit together, and then I build my own learning path. I get my inspiration from Wikipedia, college curriculum and table of contents in books. Then, I learn the theory about the algorithms, and finally, I code it.
+The information is presented in the same way I learn a new concept. First, I usually try to research a topic first to have a good overview on how things fit together, and then I build my own learning path. I get my inspiration from Wikipedia, college curriculum and table of contents in books. Then, I learn the theory about the algorithms, and finally, I code it on Python.
+
+### Why did I choose to code in Python instead of R?
+
+Althought I love R, I find that there are more ressources for machine learning on Python, so I keep R mainly for data visualization and statistical analysis. In my experience, Python offers more package for modelling whereas R offers more package for statistics and plotting.
 
 ### Some questions I had when I started learning Machine Learning
 
@@ -80,13 +84,41 @@ Real life applications of Machine learning includes:
 5. Test the model using testing data and some metrics
 6. Tuning hyperparameters and model structure with Dropout, regularization and Early Stopping
 
+##### Some Python librairies you should know about
+
+1. Numpy: vectors and matrices manipulation
+2. Pandas: data wrangling and data manipulation
+3. Matplotlib: data visualization
+4. Tensorflow / Keras: machine learning algorithms
+5. BeautifulSoup: data scrapping
+
+### Questions that I currently ask myself
+
+- What is the right learning to coding ratio?
+- When am I ready to do my own project?
+- Should I learn a package first or learn it as I need to?
+
 ## Basics Machine Learning Algorithms
 
 Theory: 
-1. Youtube Channel: Statquest with Josh Starmer. Give the intuition on basic machine learning algorithms
+1. Youtube Channel: Statquest with Josh Starmer. Give the intuition on basic machine learning algorithms. Link: https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
 Pratice: 
 1. Book: Python Machine Learning Cookbook by Chris Albon. In-depth preprocessing techniques and basics machine learning algorithms. It assumes that you understand the algorithms. Great to have an general understanding of the basics machine learning algorithms.
 
+## Neural Network
+
+Theory:
+1. Youtube Channel: MIT's Deep Learning Course from Alexander Amini. Great overview on how the model transform input into output and training process. List how the model can be improved, but no further explanation. Link: https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
+## Reinforcement Learning
+
+Theory:
+1. Youtube Channel: Reinforcement Learning Course given by David Silver on Deep Mind. In-depth explanation on agent, environment, decision processes and policies. Link: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+
+## Genetic Algorithms
+
+Theory:
+1. Youtube Channel: 9.2 Genetic algorithm by The Coding Train. Great Overview of fitness function, parents selection, crossover, and mutation. Link: https://www.youtube.com/watch?v=RxTfc4JLYKs
 
 
