@@ -104,12 +104,15 @@ Theory:
 1. Youtube Channel: Statquest with Josh Starmer. Give the intuition on basic machine learning algorithms. Link: https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 
 Pratice: 
-1. Book: Python Machine Learning Cookbook by Chris Albon. In-depth preprocessing techniques and basics machine learning algorithms. It assumes that you understand the algorithms. Great to have an general understanding of the basics machine learning algorithms.
+2. Book: Python Machine Learning Cookbook by Chris Albon. In-depth preprocessing techniques and basics machine learning algorithms. It assumes that you understand the algorithms. Great to have an general understanding of the basics machine learning algorithms.
 
 ## Neural Network
 
 Theory:
 1. Youtube Channel: MIT's Deep Learning Course from Alexander Amini. Great overview on how the model transform input into output and training process. List how the model can be improved, but no further explanation. Link: https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
+Practice:
+2. Weights and Biases: https://www.wandb.com/tutorials
 
 ## Reinforcement Learning
 
