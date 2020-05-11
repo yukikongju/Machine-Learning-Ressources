@@ -110,6 +110,7 @@ Pratice:
 
 Theory:
 1. Youtube Channel: MIT's Deep Learning Course from Alexander Amini. Great overview on how the model transform input into output and training process. List how the model can be improved, but no further explanation. Link: https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+3. Crash Course given by Jabril. Lighter and a more vulgarized explanation. Link: https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&t=0s 
 
 Practice:
 2. Weights and Biases: https://www.wandb.com/tutorials
