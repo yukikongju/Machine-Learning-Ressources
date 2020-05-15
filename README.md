@@ -105,6 +105,7 @@ Theory:
 
 Pratice: 
 2. Book: Python Machine Learning Cookbook by Chris Albon. In-depth preprocessing techniques and basics machine learning algorithms. It assumes that you understand the algorithms. Great to have an general understanding of the basics machine learning algorithms.
+3. Book: Hands On Machine Learning 2 by Aurelien Geron. 
 
 ## Neural Network
 
